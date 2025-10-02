@@ -1,17 +1,25 @@
 @import "tailwindcss";
 
+
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #222327;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: "DM Sans", sans-serif;
+}
+
+
+
+@theme   {
+  --color-text: oklch(96.7% 0.001 286.375);
+  --color-primary: oklch(82.8% 0.189 84.429);
 }
 

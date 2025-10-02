@@ -1,1 +1,1 @@
-export type { RouteType } from './main.type';
+export type { RouteType, IconType } from './main.type';
