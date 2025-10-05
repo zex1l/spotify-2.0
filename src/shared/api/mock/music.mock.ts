@@ -9,23 +9,10 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '1 1',
-        name: 'dwada',
+        name: 'Megan Thee Stallion',
       },
     ],
     duration: 196,
-  },
-  {
-    id: '2',
-    name: 'Emergency',
-    src: '/audio/Emergency.mp3',
-    image: '/cover/Emergency.jpg',
-    artists: [
-      {
-        id: '2 1',
-        name: 'dwada',
-      },
-    ],
-    duration: 227,
   },
   {
     id: '3',
@@ -35,7 +22,7 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '3 1',
-        name: 'dwada',
+        name: 'Beyoncé',
       },
     ],
     duration: 339,
@@ -48,10 +35,10 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '4 1',
-        name: 'dwada',
+        name: 'Faithless',
       },
     ],
-    duration: 180,
+    duration: 136,
   },
   {
     id: '5',
@@ -61,10 +48,9 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '5 1',
-        name: 'dwada',
+        name: 'Wizkid',
       },
     ],
-
     duration: 181,
   },
   {
@@ -75,7 +61,7 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '6 1',
-        name: 'dwada',
+        name: 'Daft Punk',
       },
     ],
     duration: 216,
@@ -88,10 +74,9 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '7 1',
-        name: 'dwada',
+        name: 'Leila K',
       },
     ],
-
     duration: 220,
   },
   {
@@ -102,7 +87,7 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '8 1',
-        name: 'dwada',
+        name: 'Eric Prydz',
       },
     ],
     duration: 180,
@@ -115,7 +100,7 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '9 1',
-        name: 'dwada',
+        name: 'Stan Christ & Zeltak',
       },
     ],
     duration: 229,
@@ -128,7 +113,7 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '10 1',
-        name: 'dwada',
+        name: 'David Guetta',
       },
     ],
     duration: 168,
@@ -141,7 +126,7 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '11 1',
-        name: 'dwada',
+        name: 'Seafret',
       },
     ],
     duration: 317,
@@ -154,7 +139,7 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '12 1',
-        name: 'dwada',
+        name: 'Avicii',
       },
     ],
     duration: 300,
@@ -167,7 +152,7 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '13 1',
-        name: 'dwada',
+        name: 'Moby',
       },
     ],
     duration: 241,
@@ -180,7 +165,7 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '14 1',
-        name: 'dwada',
+        name: 'Empire of the Sun',
       },
     ],
     duration: 236,
@@ -193,7 +178,7 @@ export const MUSICS: MusicType[] = [
     artists: [
       {
         id: '15 1',
-        name: 'dwada',
+        name: 'Disclosure',
       },
     ],
     duration: 214,

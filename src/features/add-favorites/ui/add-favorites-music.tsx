@@ -1,7 +1,7 @@
 import { type MusicType } from '@/entities/music';
 import { cn } from '@/shared/utils';
 import { Heart } from 'lucide-react';
-import { useFavoritesMusicStore } from './model/store';
+import { useFavoritesMusicStore } from '../model/store';
 
 type Props = {
   className?: string;

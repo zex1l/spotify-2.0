@@ -20,7 +20,7 @@ export const MusicItem = ({
   return (
     <div
       className={cn(
-        'flex items-center min-h-[100px] py-2 justify-between',
+        'flex items-center min-h-[80px] py-2 justify-between',
         className
       )}
     >
