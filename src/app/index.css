@@ -21,5 +21,6 @@
 @theme   {
   --color-text: oklch(96.7% 0.001 286.375);
   --color-primary: oklch(82.8% 0.189 84.429);
+  --color-bg: #222327;
 }
 
