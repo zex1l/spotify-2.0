@@ -12,7 +12,7 @@ export const Layout = ({ children, leftbar, rightbar }: Props) => {
 
   return (
     <div
-      className={cn('h-screen grid overflow-hidden transition-all grid-cols-[2fr_8fr_2fr]')}
+      className={cn('h-screen grid overflow-hidden transition-all grid-cols-[2fr_8fr] lg:grid-cols-[2fr_8fr_2fr]')}
     >
       {leftbar && <div className="p-8 border-r border-zinc-700 overflow-hidden">{leftbar}</div>}
       <div className="py-6 px-4">{children}</div>
